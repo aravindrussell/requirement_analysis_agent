@@ -1,0 +1,10 @@
+streamlit>=1.40
+python-dotenv>=1.0
+langchain>=1.0
+langchain-openai
+langchain-anthropic
+langchain-chroma
+langchain-community
+langchain-text-splitters
+pypdf
+docx2txt

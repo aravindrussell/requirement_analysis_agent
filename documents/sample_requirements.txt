@@ -1,0 +1,14 @@
+REQ-001: User Login
+The application must allow registered users to log in using their registered email address and password.
+
+REQ-002: Invalid Login
+If a user enters an invalid password, the application must display an appropriate error message.
+
+REQ-003: Account Lock
+After five consecutive unsuccessful login attempts, the application must temporarily lock the account.
+
+REQ-004: Password Reset
+Users must be able to reset their password using their registered email address.
+
+REQ-005: Session Timeout
+The application must automatically log out users after 15 minutes of inactivity.
